@@ -8,4 +8,4 @@ zahlen.forEach(
     }
 );
 
-console.log(zahlen);
+
