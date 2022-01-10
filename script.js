@@ -4,3 +4,4 @@ jahre.forEach(
         console.log("Das Jahr ist " + jahrgang)
     }
 );
+console.log(jahre);
